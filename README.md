@@ -12,13 +12,11 @@ V                     - Zoom out
   
 Running:
   
-Standard
+Standard  
 ![alt text](https://github.com/bllarrison/fractal_generator/blob/master/ex_gifs/Ex1.gif) 
   
-Fine detail
-  
+Fine detail  
 ![alt text](https://github.com/bllarrison/fractal_generator/blob/master/ex_gifs/Ex2.gif) 
   
-Large detail
-  
+Large detail  
 ![alt text](https://github.com/bllarrison/fractal_generator/blob/master/ex_gifs/Ex3.gif)  
